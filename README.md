@@ -1,4 +1,5 @@
 **Full-Stack Developer**
+
 Odesa, Ukraine · open to remote Full-Stack / Backend / Frontend roles
 
 - Currently developing a logistics & marketplace platform (Express + tRPC, Prisma, PostgreSQL, Redis, React PWA).
@@ -14,9 +15,9 @@ Odesa, Ukraine · open to remote Full-Stack / Backend / Frontend roles
 
 ### Tech
 
-**Backend:** Node.js, Express, tRPC, Prisma, Zod, REST APIs, Django, DRF, FastAPI
-**Frontend:** React, Next.js, SCSS, Vite, TanStack Query, PWA
-**Data:** PostgreSQL, Redis, MongoDB
-**DevOps:** Docker, GitHub Actions, Linux, Nginx, Caddy
+- **Backend:** Node.js, Express, tRPC, Prisma, Zod, REST APIs, Django, DRF, FastAPI
+- **Frontend:** React, Next.js, SCSS, Vite, TanStack Query, PWA
+- **Data:** PostgreSQL, Redis, MongoDB
+- **DevOps:** Docker, GitHub Actions, Linux, Nginx, Caddy
 
 📫 evgen3216@icloud.com
