@@ -1,6 +1,4 @@
-# Hi, I'm Yevhen 👋
-
-**Full-Stack Developer** · TypeScript · Node.js · React · PostgreSQL · Python
+**Full-Stack Developer**
 Odesa, Ukraine · open to remote Full-Stack / Backend / Frontend roles
 
 - Currently developing a logistics & marketplace platform (Express + tRPC, Prisma, PostgreSQL, Redis, React PWA).
