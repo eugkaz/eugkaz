@@ -1,0 +1,26 @@
+# Hi, I'm Yevhen 👋
+
+**Full-Stack Developer** · TypeScript · Node.js · React · PostgreSQL · Python
+Odesa, Ukraine · open to remote Full-Stack / Backend / Frontend roles
+
+- 2.5 years of commercial experience building production web apps end-to-end — database schema, API, UI, Docker and CI/CD.
+- Currently developing a logistics & marketplace platform (Express + tRPC, Prisma, PostgreSQL, Redis, React PWA).
+- Previously delivered 15+ freelance projects in data aggregation, web scraping and backend automation for clients in the US, Canada, Australia and the EU.
+
+### Featured projects
+
+| Project | Stack | About |
+|---|---|---|
+| [exam-trainer](https://github.com/eugkaz/exam-trainer) | React, TypeScript, Express 5, Prisma, PostgreSQL, Docker | Exam preparation platform: passkeys, roles, groups, Web Push, AI-assisted question import |
+| [electrohub](https://github.com/eugkaz/electrohub) | Django 5, DRF, PostGIS, Channels, Stripe | EV community platform: shop, marketplace with real-time chat, charging-station map & booking |
+| [async-population-service](https://github.com/eugkaz/async-population-service) | Python asyncio, aiohttp, SQLAlchemy 2.0, asyncpg | Async scraping pipeline with SQL aggregation |
+| [mactools](https://github.com/eugkaz/mactools) | Swift, AppKit, SwiftUI | Five native macOS menu-bar utilities |
+
+### Tech
+
+**Backend:** Node.js, Express, tRPC, Prisma, Zod, REST APIs, Django, DRF, FastAPI
+**Frontend:** React, Next.js, SCSS, Vite, TanStack Query, PWA
+**Data:** PostgreSQL, Redis, MongoDB
+**DevOps:** Docker, GitHub Actions, Linux, Nginx, Caddy
+
+📫 evgen3216@icloud.com
